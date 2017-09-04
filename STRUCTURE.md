@@ -15,7 +15,7 @@ A [conversion funnel](https://www.google.com/search?q=conversion+funnel&tbm=isch
     * Measure impressions/reach
 
 2. Visitors: Landing Page, Realization of Need, Interest/Desire, Engage leads, Familiarity
-    * Assert the unmet needs the "one key fan" users face, and how the products/services addresse their needs
+    * Assert the unmet needs the "one key fan" users face, and how the products/services address their needs
     * Survey their needs/expectations
     * Calls To Action
     * Measure active daily users
@@ -44,6 +44,7 @@ A [conversion funnel](https://www.google.com/search?q=conversion+funnel&tbm=isch
 
 5. Participants: Retention/Loyalty
     * Schedule for 12+ months of usage (curricular scale)    
+      * Lesson plans (eg, [how to get a microscope working with an XO](https://wiki.sugarlabs.org/go/Talk:EduJAM/2011), [4th grade curriculum lessons](https://wiki.sugarlabs.org/go/Math4Team/Resources/Curriculum_Chart))
     * Actively participate in the community
       * post on mailing list
       * post translation improvements
@@ -66,6 +67,7 @@ The elements on the 2nd/3rd levels of the list are the 'secondary navigation' an
 
 home
 * What do middle school kids need? How Sugar addresses those needs.
+   * "What I would like from marketing is some mechanism for highlighting the powerful ideas in Sugar that seem to be lacking in most other systems so that even if a school decides to go with a different product/project, they put pressure on that project to provide tools, not apps, collaboration, transparency, self reflection and group critique, and responsibility on the shoulders of students and teachers to shape their own world." - Walter Bender
 * "A successful technology creates problems that only it can solve." - Alan Kay
 * Story telling: one great case study (from OLPC France?)
 * Testimonials/Reviews. Quote from [LinuxInsider](http://www.linuxinsider.com/story/Fedora-Based-Sugar-on-a-Stick-Is-One-Sweet-Desktop-83446.html), size of active user base from <http://wiki.sugarlabs.org/images/4/48/Survey_summary.pdf>, http://wiki.laptop.org/go/ALEARN_Network, etc.
@@ -79,6 +81,11 @@ about
 * "Learning To Change The World" full text liberated
 * case studies
    * a table listing each user community ("deployment" or "local lab"?) and a person in each community who Sugar Labs can talk with? (Starting with http://wiki.laptop.org/go/Manufacturing_data)
+   * show off where our users are ([map](http://stats.sugarlabs.org/activities.sugarlabs.org/awstats.pl?framename=mainright&output=alldomains))
+   * statistics ([scratch example](https://scratch.mit.edu/statistics))
+   * conference presentations
+      * https://www.youtube.com/watch?v=h1RBAq6GN7o
+   * [sf summit posters](http://www.olpcsf.org/CommunitySummit2013/posters)
 * detailed information about the Sugar Labs organization
    * Explanation of Conservancy
    * SLOB Minutes
@@ -93,6 +100,7 @@ try now
 
 download
 * SOAS
+* Chromebooks
 * Instructions + videos showing how to install on major distro packaging systems
    * www.ubuntu.com www.linuxmint.com www.debian.org www.raspbian.org
    * www.fedora-project.org www.centos.com
@@ -122,6 +130,7 @@ join/support/participate
 * how to start a local lab
   * funding (Google RISE)
   * training materials (eg <https://olpcnyc.wordpress.com/training-materials>, <https://wiki.sugarlabs.org/go/Tutorials/Tutorials.iso>)
+  * [mariah's guide](http://mariahnoelle.com/wp-content/uploads/2014/04/sugarlabsgcioutreach.png)
 * how to contribute to translation
   * raise funds to pay (Nigeria case study?)
 * how to contribute to usability
@@ -145,6 +154,7 @@ join/support/participate
    * http://getchip.com/pages/pocketchip
    * http://www.recycleusb.com
    * http://www.qimo4kids.com
+   * https://kidswrite.org/our-story
 
 ## Tertiary Elements 
 
@@ -158,3 +168,11 @@ These elements appear on all pages (typically in a footer area)
 * 'edit this page' link
 * survey (ux questionaire, tell us what you think, tell us if you are a user)
 * 10th year anniversity banner
+
+# Peer Analysis
+
+Here's a list of organizations that might be considered peers with Sugar Labs. 
+Comparing their websites with ours may give us ideas for how we can improve. 
+
+* https://learningequality.org
+* http://haxe.org
